@@ -1,4 +1,4 @@
-# Oh My CV!
+# Oh My Markdown Resume
 
 Microsoft Word and LaTeX are too overkill for a resume.
 
